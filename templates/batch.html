@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>CMP — batch {{ batch_date }}</title>
+  <script src="https://unpkg.com/htmx.org@2.0.4"></script>
+  <style>
+    body { font: 14px/1.4 system-ui, sans-serif; margin: 24px; color: #1a1a1a; }
+    table { border-collapse: collapse; width: 100%; }
+    th, td { text-align: left; padding: 6px 8px; border-bottom: 1px solid #ddd; }
+    .approved { background: #e8f5e9; } .rejected { background: #fdecea; }
+    button { padding: 4px 10px; }
+  </style>
+</head>
+<body>
+  <h1>Proposals for {{ batch_date }}</h1>
+  <table>
+    <thead><tr><th>Keyword</th><th>Rule</th><th>Field</th><th>Current → Proposed</th><th>ROAS D7</th><th>Spend</th><th>Installs</th><th>Status</th><th></th></tr></thead>
+    <tbody>
+      {% for p in rows %}{% include "_row.html" %}{% endfor %}
+    </tbody>
+  </table>
+</body>
+</html>

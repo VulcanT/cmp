@@ -1,0 +1,7 @@
+{
+  "allowPartialSuccess": true,
+  "items": [
+    {"correlationId": 11, "data": {"id": 1, "bid": {"amount": "1.15", "currency": "USD"}}},
+    {"correlationId": 12, "data": {"id": 2, "status": "PAUSED"}}
+  ]
+}

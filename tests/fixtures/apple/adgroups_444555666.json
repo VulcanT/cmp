@@ -1,0 +1,19 @@
+{
+  "result": [
+    {
+      "id": 555666777,
+      "campaignId": 444555666,
+      "name": "AG1",
+      "status": "ENABLED",
+      "defaultBid": {
+        "amount": "1.00",
+        "currency": "USD"
+      }
+    }
+  ],
+  "pagination": {
+    "offset": 0,
+    "pageSize": 500,
+    "totalCount": 1
+  }
+}

@@ -1,0 +1,1055 @@
+{
+  "result": {
+    "rows": [
+      {
+        "metadata": {
+          "id": 1001,
+          "text": "photo editor",
+          "matchType": "EXACT",
+          "adAccountId": 123456789,
+          "campaignId": 444555666,
+          "adGroupId": 555666777,
+          "status": "ENABLED",
+          "deleted": false
+        },
+        "totalMetrics": {
+          "localSpend": {
+            "amount": "28.00",
+            "currency": "USD"
+          }
+        },
+        "granularMetrics": [
+          {
+            "date": "2026-10-01",
+            "localSpend": {
+              "amount": "2.00",
+              "currency": "USD"
+            },
+            "impressions": 100,
+            "taps": 10,
+            "tapInstalls": 4,
+            "totalInstalls": 4
+          },
+          {
+            "date": "2026-10-02",
+            "localSpend": {
+              "amount": "2.00",
+              "currency": "USD"
+            },
+            "impressions": 100,
+            "taps": 10,
+            "tapInstalls": 4,
+            "totalInstalls": 4
+          },
+          {
+            "date": "2026-10-03",
+            "localSpend": {
+              "amount": "2.00",
+              "currency": "USD"
+            },
+            "impressions": 100,
+            "taps": 10,
+            "tapInstalls": 4,
+            "totalInstalls": 4
+          },
+          {
+            "date": "2026-10-04",
+            "localSpend": {
+              "amount": "2.00",
+              "currency": "USD"
+            },
+            "impressions": 100,
+            "taps": 10,
+            "tapInstalls": 4,
+            "totalInstalls": 4
+          },
+          {
+            "date": "2026-10-05",
+            "localSpend": {
+              "amount": "2.00",
+              "currency": "USD"
+            },
+            "impressions": 100,
+            "taps": 10,
+            "tapInstalls": 4,
+            "totalInstalls": 4
+          },
+          {
+            "date": "2026-10-06",
+            "localSpend": {
+              "amount": "2.00",
+              "currency": "USD"
+            },
+            "impressions": 100,
+            "taps": 10,
+            "tapInstalls": 4,
+            "totalInstalls": 4
+          },
+          {
+            "date": "2026-10-07",
+            "localSpend": {
+              "amount": "2.00",
+              "currency": "USD"
+            },
+            "impressions": 100,
+            "taps": 10,
+            "tapInstalls": 4,
+            "totalInstalls": 4
+          },
+          {
+            "date": "2026-10-08",
+            "localSpend": {
+              "amount": "2.00",
+              "currency": "USD"
+            },
+            "impressions": 100,
+            "taps": 10,
+            "tapInstalls": 4,
+            "totalInstalls": 4
+          },
+          {
+            "date": "2026-10-09",
+            "localSpend": {
+              "amount": "2.00",
+              "currency": "USD"
+            },
+            "impressions": 100,
+            "taps": 10,
+            "tapInstalls": 4,
+            "totalInstalls": 4
+          },
+          {
+            "date": "2026-10-10",
+            "localSpend": {
+              "amount": "2.00",
+              "currency": "USD"
+            },
+            "impressions": 100,
+            "taps": 10,
+            "tapInstalls": 4,
+            "totalInstalls": 4
+          },
+          {
+            "date": "2026-10-11",
+            "localSpend": {
+              "amount": "2.00",
+              "currency": "USD"
+            },
+            "impressions": 100,
+            "taps": 10,
+            "tapInstalls": 4,
+            "totalInstalls": 4
+          },
+          {
+            "date": "2026-10-12",
+            "localSpend": {
+              "amount": "2.00",
+              "currency": "USD"
+            },
+            "impressions": 100,
+            "taps": 10,
+            "tapInstalls": 4,
+            "totalInstalls": 4
+          },
+          {
+            "date": "2026-10-13",
+            "localSpend": {
+              "amount": "2.00",
+              "currency": "USD"
+            },
+            "impressions": 100,
+            "taps": 10,
+            "tapInstalls": 4,
+            "totalInstalls": 4
+          },
+          {
+            "date": "2026-10-14",
+            "localSpend": {
+              "amount": "2.00",
+              "currency": "USD"
+            },
+            "impressions": 100,
+            "taps": 10,
+            "tapInstalls": 4,
+            "totalInstalls": 4
+          }
+        ]
+      },
+      {
+        "metadata": {
+          "id": 1002,
+          "text": "collage maker",
+          "matchType": "EXACT",
+          "adAccountId": 123456789,
+          "campaignId": 444555666,
+          "adGroupId": 555666777,
+          "status": "ENABLED",
+          "deleted": false
+        },
+        "totalMetrics": {
+          "localSpend": {
+            "amount": "28.00",
+            "currency": "USD"
+          }
+        },
+        "granularMetrics": [
+          {
+            "date": "2026-10-01",
+            "localSpend": {
+              "amount": "2.00",
+              "currency": "USD"
+            },
+            "impressions": 100,
+            "taps": 10,
+            "tapInstalls": 2,
+            "totalInstalls": 2
+          },
+          {
+            "date": "2026-10-02",
+            "localSpend": {
+              "amount": "2.00",
+              "currency": "USD"
+            },
+            "impressions": 100,
+            "taps": 10,
+            "tapInstalls": 2,
+            "totalInstalls": 2
+          },
+          {
+            "date": "2026-10-03",
+            "localSpend": {
+              "amount": "2.00",
+              "currency": "USD"
+            },
+            "impressions": 100,
+            "taps": 10,
+            "tapInstalls": 2,
+            "totalInstalls": 2
+          },
+          {
+            "date": "2026-10-04",
+            "localSpend": {
+              "amount": "2.00",
+              "currency": "USD"
+            },
+            "impressions": 100,
+            "taps": 10,
+            "tapInstalls": 2,
+            "totalInstalls": 2
+          },
+          {
+            "date": "2026-10-05",
+            "localSpend": {
+              "amount": "2.00",
+              "currency": "USD"
+            },
+            "impressions": 100,
+            "taps": 10,
+            "tapInstalls": 2,
+            "totalInstalls": 2
+          },
+          {
+            "date": "2026-10-06",
+            "localSpend": {
+              "amount": "2.00",
+              "currency": "USD"
+            },
+            "impressions": 100,
+            "taps": 10,
+            "tapInstalls": 2,
+            "totalInstalls": 2
+          },
+          {
+            "date": "2026-10-07",
+            "localSpend": {
+              "amount": "2.00",
+              "currency": "USD"
+            },
+            "impressions": 100,
+            "taps": 10,
+            "tapInstalls": 2,
+            "totalInstalls": 2
+          },
+          {
+            "date": "2026-10-08",
+            "localSpend": {
+              "amount": "2.00",
+              "currency": "USD"
+            },
+            "impressions": 100,
+            "taps": 10,
+            "tapInstalls": 2,
+            "totalInstalls": 2
+          },
+          {
+            "date": "2026-10-09",
+            "localSpend": {
+              "amount": "2.00",
+              "currency": "USD"
+            },
+            "impressions": 100,
+            "taps": 10,
+            "tapInstalls": 2,
+            "totalInstalls": 2
+          },
+          {
+            "date": "2026-10-10",
+            "localSpend": {
+              "amount": "2.00",
+              "currency": "USD"
+            },
+            "impressions": 100,
+            "taps": 10,
+            "tapInstalls": 2,
+            "totalInstalls": 2
+          },
+          {
+            "date": "2026-10-11",
+            "localSpend": {
+              "amount": "2.00",
+              "currency": "USD"
+            },
+            "impressions": 100,
+            "taps": 10,
+            "tapInstalls": 2,
+            "totalInstalls": 2
+          },
+          {
+            "date": "2026-10-12",
+            "localSpend": {
+              "amount": "2.00",
+              "currency": "USD"
+            },
+            "impressions": 100,
+            "taps": 10,
+            "tapInstalls": 2,
+            "totalInstalls": 2
+          },
+          {
+            "date": "2026-10-13",
+            "localSpend": {
+              "amount": "2.00",
+              "currency": "USD"
+            },
+            "impressions": 100,
+            "taps": 10,
+            "tapInstalls": 2,
+            "totalInstalls": 2
+          },
+          {
+            "date": "2026-10-14",
+            "localSpend": {
+              "amount": "2.00",
+              "currency": "USD"
+            },
+            "impressions": 100,
+            "taps": 10,
+            "tapInstalls": 2,
+            "totalInstalls": 2
+          }
+        ]
+      },
+      {
+        "metadata": {
+          "id": 1003,
+          "text": "free app",
+          "matchType": "EXACT",
+          "adAccountId": 123456789,
+          "campaignId": 444555666,
+          "adGroupId": 555666777,
+          "status": "ENABLED",
+          "deleted": false
+        },
+        "totalMetrics": {
+          "localSpend": {
+            "amount": "42.00",
+            "currency": "USD"
+          }
+        },
+        "granularMetrics": [
+          {
+            "date": "2026-10-01",
+            "localSpend": {
+              "amount": "3.00",
+              "currency": "USD"
+            },
+            "impressions": 100,
+            "taps": 10,
+            "tapInstalls": 0,
+            "totalInstalls": 0
+          },
+          {
+            "date": "2026-10-02",
+            "localSpend": {
+              "amount": "3.00",
+              "currency": "USD"
+            },
+            "impressions": 100,
+            "taps": 10,
+            "tapInstalls": 0,
+            "totalInstalls": 0
+          },
+          {
+            "date": "2026-10-03",
+            "localSpend": {
+              "amount": "3.00",
+              "currency": "USD"
+            },
+            "impressions": 100,
+            "taps": 10,
+            "tapInstalls": 0,
+            "totalInstalls": 0
+          },
+          {
+            "date": "2026-10-04",
+            "localSpend": {
+              "amount": "3.00",
+              "currency": "USD"
+            },
+            "impressions": 100,
+            "taps": 10,
+            "tapInstalls": 0,
+            "totalInstalls": 0
+          },
+          {
+            "date": "2026-10-05",
+            "localSpend": {
+              "amount": "3.00",
+              "currency": "USD"
+            },
+            "impressions": 100,
+            "taps": 10,
+            "tapInstalls": 0,
+            "totalInstalls": 0
+          },
+          {
+            "date": "2026-10-06",
+            "localSpend": {
+              "amount": "3.00",
+              "currency": "USD"
+            },
+            "impressions": 100,
+            "taps": 10,
+            "tapInstalls": 0,
+            "totalInstalls": 0
+          },
+          {
+            "date": "2026-10-07",
+            "localSpend": {
+              "amount": "3.00",
+              "currency": "USD"
+            },
+            "impressions": 100,
+            "taps": 10,
+            "tapInstalls": 0,
+            "totalInstalls": 0
+          },
+          {
+            "date": "2026-10-08",
+            "localSpend": {
+              "amount": "3.00",
+              "currency": "USD"
+            },
+            "impressions": 100,
+            "taps": 10,
+            "tapInstalls": 0,
+            "totalInstalls": 0
+          },
+          {
+            "date": "2026-10-09",
+            "localSpend": {
+              "amount": "3.00",
+              "currency": "USD"
+            },
+            "impressions": 100,
+            "taps": 10,
+            "tapInstalls": 0,
+            "totalInstalls": 0
+          },
+          {
+            "date": "2026-10-10",
+            "localSpend": {
+              "amount": "3.00",
+              "currency": "USD"
+            },
+            "impressions": 100,
+            "taps": 10,
+            "tapInstalls": 0,
+            "totalInstalls": 0
+          },
+          {
+            "date": "2026-10-11",
+            "localSpend": {
+              "amount": "3.00",
+              "currency": "USD"
+            },
+            "impressions": 100,
+            "taps": 10,
+            "tapInstalls": 0,
+            "totalInstalls": 0
+          },
+          {
+            "date": "2026-10-12",
+            "localSpend": {
+              "amount": "3.00",
+              "currency": "USD"
+            },
+            "impressions": 100,
+            "taps": 10,
+            "tapInstalls": 0,
+            "totalInstalls": 0
+          },
+          {
+            "date": "2026-10-13",
+            "localSpend": {
+              "amount": "3.00",
+              "currency": "USD"
+            },
+            "impressions": 100,
+            "taps": 10,
+            "tapInstalls": 0,
+            "totalInstalls": 0
+          },
+          {
+            "date": "2026-10-14",
+            "localSpend": {
+              "amount": "3.00",
+              "currency": "USD"
+            },
+            "impressions": 100,
+            "taps": 10,
+            "tapInstalls": 0,
+            "totalInstalls": 0
+          }
+        ]
+      },
+      {
+        "metadata": {
+          "id": 1004,
+          "text": "Photo Editor Pro",
+          "matchType": "EXACT",
+          "adAccountId": 123456789,
+          "campaignId": 444555666,
+          "adGroupId": 555666777,
+          "status": "ENABLED",
+          "deleted": false
+        },
+        "totalMetrics": {
+          "localSpend": {
+            "amount": "14.00",
+            "currency": "USD"
+          }
+        },
+        "granularMetrics": [
+          {
+            "date": "2026-10-01",
+            "localSpend": {
+              "amount": "1.00",
+              "currency": "USD"
+            },
+            "impressions": 100,
+            "taps": 10,
+            "tapInstalls": 1,
+            "totalInstalls": 1
+          },
+          {
+            "date": "2026-10-02",
+            "localSpend": {
+              "amount": "1.00",
+              "currency": "USD"
+            },
+            "impressions": 100,
+            "taps": 10,
+            "tapInstalls": 1,
+            "totalInstalls": 1
+          },
+          {
+            "date": "2026-10-03",
+            "localSpend": {
+              "amount": "1.00",
+              "currency": "USD"
+            },
+            "impressions": 100,
+            "taps": 10,
+            "tapInstalls": 1,
+            "totalInstalls": 1
+          },
+          {
+            "date": "2026-10-04",
+            "localSpend": {
+              "amount": "1.00",
+              "currency": "USD"
+            },
+            "impressions": 100,
+            "taps": 10,
+            "tapInstalls": 1,
+            "totalInstalls": 1
+          },
+          {
+            "date": "2026-10-05",
+            "localSpend": {
+              "amount": "1.00",
+              "currency": "USD"
+            },
+            "impressions": 100,
+            "taps": 10,
+            "tapInstalls": 1,
+            "totalInstalls": 1
+          },
+          {
+            "date": "2026-10-06",
+            "localSpend": {
+              "amount": "1.00",
+              "currency": "USD"
+            },
+            "impressions": 100,
+            "taps": 10,
+            "tapInstalls": 1,
+            "totalInstalls": 1
+          },
+          {
+            "date": "2026-10-07",
+            "localSpend": {
+              "amount": "1.00",
+              "currency": "USD"
+            },
+            "impressions": 100,
+            "taps": 10,
+            "tapInstalls": 1,
+            "totalInstalls": 1
+          },
+          {
+            "date": "2026-10-08",
+            "localSpend": {
+              "amount": "1.00",
+              "currency": "USD"
+            },
+            "impressions": 100,
+            "taps": 10,
+            "tapInstalls": 1,
+            "totalInstalls": 1
+          },
+          {
+            "date": "2026-10-09",
+            "localSpend": {
+              "amount": "1.00",
+              "currency": "USD"
+            },
+            "impressions": 100,
+            "taps": 10,
+            "tapInstalls": 1,
+            "totalInstalls": 1
+          },
+          {
+            "date": "2026-10-10",
+            "localSpend": {
+              "amount": "1.00",
+              "currency": "USD"
+            },
+            "impressions": 100,
+            "taps": 10,
+            "tapInstalls": 1,
+            "totalInstalls": 1
+          },
+          {
+            "date": "2026-10-11",
+            "localSpend": {
+              "amount": "1.00",
+              "currency": "USD"
+            },
+            "impressions": 100,
+            "taps": 10,
+            "tapInstalls": 1,
+            "totalInstalls": 1
+          },
+          {
+            "date": "2026-10-12",
+            "localSpend": {
+              "amount": "1.00",
+              "currency": "USD"
+            },
+            "impressions": 100,
+            "taps": 10,
+            "tapInstalls": 1,
+            "totalInstalls": 1
+          },
+          {
+            "date": "2026-10-13",
+            "localSpend": {
+              "amount": "1.00",
+              "currency": "USD"
+            },
+            "impressions": 100,
+            "taps": 10,
+            "tapInstalls": 1,
+            "totalInstalls": 1
+          },
+          {
+            "date": "2026-10-14",
+            "localSpend": {
+              "amount": "1.00",
+              "currency": "USD"
+            },
+            "impressions": 100,
+            "taps": 10,
+            "tapInstalls": 1,
+            "totalInstalls": 1
+          }
+        ]
+      },
+      {
+        "metadata": {
+          "id": 1005,
+          "text": "wallpaper",
+          "matchType": "EXACT",
+          "adAccountId": 123456789,
+          "campaignId": 444555666,
+          "adGroupId": 555666777,
+          "status": "ENABLED",
+          "deleted": false
+        },
+        "totalMetrics": {
+          "localSpend": {
+            "amount": "28.00",
+            "currency": "USD"
+          }
+        },
+        "granularMetrics": [
+          {
+            "date": "2026-10-01",
+            "localSpend": {
+              "amount": "2.00",
+              "currency": "USD"
+            },
+            "impressions": 100,
+            "taps": 10,
+            "tapInstalls": 4,
+            "totalInstalls": 4
+          },
+          {
+            "date": "2026-10-02",
+            "localSpend": {
+              "amount": "2.00",
+              "currency": "USD"
+            },
+            "impressions": 100,
+            "taps": 10,
+            "tapInstalls": 4,
+            "totalInstalls": 4
+          },
+          {
+            "date": "2026-10-03",
+            "localSpend": {
+              "amount": "2.00",
+              "currency": "USD"
+            },
+            "impressions": 100,
+            "taps": 10,
+            "tapInstalls": 4,
+            "totalInstalls": 4
+          },
+          {
+            "date": "2026-10-04",
+            "localSpend": {
+              "amount": "2.00",
+              "currency": "USD"
+            },
+            "impressions": 100,
+            "taps": 10,
+            "tapInstalls": 4,
+            "totalInstalls": 4
+          },
+          {
+            "date": "2026-10-05",
+            "localSpend": {
+              "amount": "2.00",
+              "currency": "USD"
+            },
+            "impressions": 100,
+            "taps": 10,
+            "tapInstalls": 4,
+            "totalInstalls": 4
+          },
+          {
+            "date": "2026-10-06",
+            "localSpend": {
+              "amount": "2.00",
+              "currency": "USD"
+            },
+            "impressions": 100,
+            "taps": 10,
+            "tapInstalls": 4,
+            "totalInstalls": 4
+          },
+          {
+            "date": "2026-10-07",
+            "localSpend": {
+              "amount": "2.00",
+              "currency": "USD"
+            },
+            "impressions": 100,
+            "taps": 10,
+            "tapInstalls": 4,
+            "totalInstalls": 4
+          },
+          {
+            "date": "2026-10-08",
+            "localSpend": {
+              "amount": "2.00",
+              "currency": "USD"
+            },
+            "impressions": 100,
+            "taps": 10,
+            "tapInstalls": 4,
+            "totalInstalls": 4
+          },
+          {
+            "date": "2026-10-09",
+            "localSpend": {
+              "amount": "2.00",
+              "currency": "USD"
+            },
+            "impressions": 100,
+            "taps": 10,
+            "tapInstalls": 4,
+            "totalInstalls": 4
+          },
+          {
+            "date": "2026-10-10",
+            "localSpend": {
+              "amount": "2.00",
+              "currency": "USD"
+            },
+            "impressions": 100,
+            "taps": 10,
+            "tapInstalls": 4,
+            "totalInstalls": 4
+          },
+          {
+            "date": "2026-10-11",
+            "localSpend": {
+              "amount": "2.00",
+              "currency": "USD"
+            },
+            "impressions": 100,
+            "taps": 10,
+            "tapInstalls": 4,
+            "totalInstalls": 4
+          },
+          {
+            "date": "2026-10-12",
+            "localSpend": {
+              "amount": "2.00",
+              "currency": "USD"
+            },
+            "impressions": 100,
+            "taps": 10,
+            "tapInstalls": 4,
+            "totalInstalls": 4
+          },
+          {
+            "date": "2026-10-13",
+            "localSpend": {
+              "amount": "2.00",
+              "currency": "USD"
+            },
+            "impressions": 100,
+            "taps": 10,
+            "tapInstalls": 4,
+            "totalInstalls": 4
+          },
+          {
+            "date": "2026-10-14",
+            "localSpend": {
+              "amount": "2.00",
+              "currency": "USD"
+            },
+            "impressions": 100,
+            "taps": 10,
+            "tapInstalls": 4,
+            "totalInstalls": 4
+          }
+        ]
+      },
+      {
+        "metadata": {
+          "id": 1006,
+          "text": "thin keyword",
+          "matchType": "EXACT",
+          "adAccountId": 123456789,
+          "campaignId": 444555666,
+          "adGroupId": 555666777,
+          "status": "ENABLED",
+          "deleted": false
+        },
+        "totalMetrics": {
+          "localSpend": {
+            "amount": "4.20",
+            "currency": "USD"
+          }
+        },
+        "granularMetrics": [
+          {
+            "date": "2026-10-01",
+            "localSpend": {
+              "amount": "0.30",
+              "currency": "USD"
+            },
+            "impressions": 100,
+            "taps": 10,
+            "tapInstalls": 0,
+            "totalInstalls": 0
+          },
+          {
+            "date": "2026-10-02",
+            "localSpend": {
+              "amount": "0.30",
+              "currency": "USD"
+            },
+            "impressions": 100,
+            "taps": 10,
+            "tapInstalls": 0,
+            "totalInstalls": 0
+          },
+          {
+            "date": "2026-10-03",
+            "localSpend": {
+              "amount": "0.30",
+              "currency": "USD"
+            },
+            "impressions": 100,
+            "taps": 10,
+            "tapInstalls": 0,
+            "totalInstalls": 0
+          },
+          {
+            "date": "2026-10-04",
+            "localSpend": {
+              "amount": "0.30",
+              "currency": "USD"
+            },
+            "impressions": 100,
+            "taps": 10,
+            "tapInstalls": 0,
+            "totalInstalls": 0
+          },
+          {
+            "date": "2026-10-05",
+            "localSpend": {
+              "amount": "0.30",
+              "currency": "USD"
+            },
+            "impressions": 100,
+            "taps": 10,
+            "tapInstalls": 0,
+            "totalInstalls": 0
+          },
+          {
+            "date": "2026-10-06",
+            "localSpend": {
+              "amount": "0.30",
+              "currency": "USD"
+            },
+            "impressions": 100,
+            "taps": 10,
+            "tapInstalls": 0,
+            "totalInstalls": 0
+          },
+          {
+            "date": "2026-10-07",
+            "localSpend": {
+              "amount": "0.30",
+              "currency": "USD"
+            },
+            "impressions": 100,
+            "taps": 10,
+            "tapInstalls": 0,
+            "totalInstalls": 0
+          },
+          {
+            "date": "2026-10-08",
+            "localSpend": {
+              "amount": "0.30",
+              "currency": "USD"
+            },
+            "impressions": 100,
+            "taps": 10,
+            "tapInstalls": 0,
+            "totalInstalls": 0
+          },
+          {
+            "date": "2026-10-09",
+            "localSpend": {
+              "amount": "0.30",
+              "currency": "USD"
+            },
+            "impressions": 100,
+            "taps": 10,
+            "tapInstalls": 0,
+            "totalInstalls": 0
+          },
+          {
+            "date": "2026-10-10",
+            "localSpend": {
+              "amount": "0.30",
+              "currency": "USD"
+            },
+            "impressions": 100,
+            "taps": 10,
+            "tapInstalls": 0,
+            "totalInstalls": 0
+          },
+          {
+            "date": "2026-10-11",
+            "localSpend": {
+              "amount": "0.30",
+              "currency": "USD"
+            },
+            "impressions": 100,
+            "taps": 10,
+            "tapInstalls": 0,
+            "totalInstalls": 0
+          },
+          {
+            "date": "2026-10-12",
+            "localSpend": {
+              "amount": "0.30",
+              "currency": "USD"
+            },
+            "impressions": 100,
+            "taps": 10,
+            "tapInstalls": 0,
+            "totalInstalls": 0
+          },
+          {
+            "date": "2026-10-13",
+            "localSpend": {
+              "amount": "0.30",
+              "currency": "USD"
+            },
+            "impressions": 100,
+            "taps": 10,
+            "tapInstalls": 0,
+            "totalInstalls": 0
+          },
+          {
+            "date": "2026-10-14",
+            "localSpend": {
+              "amount": "0.30",
+              "currency": "USD"
+            },
+            "impressions": 100,
+            "taps": 10,
+            "tapInstalls": 0,
+            "totalInstalls": 0
+          }
+        ]
+      }
+    ]
+  },
+  "pagination": {
+    "totalCount": 6,
+    "offset": 0,
+    "pageSize": 5000
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "result": [
+    {
+      "id": 1001,
+      "adAccountId": 123456789,
+      "campaignId": 444555666,
+      "adGroupId": 555666777,
+      "text": "photo editor",
+      "matchType": "EXACT",
+      "bid": {
+        "amount": "1.00",
+        "currency": "USD"
+      },
+      "status": "ENABLED",
+      "displayStatus": "RUNNING",
+      "deleted": false
+    },
+    {
+      "id": 1002,
+      "adAccountId": 123456789,
+      "campaignId": 444555666,
+      "adGroupId": 555666777,
+      "text": "collage maker",
+      "matchType": "EXACT",
+      "bid": {
+        "amount": "1.00",
+        "currency": "USD"
+      },
+      "status": "ENABLED",
+      "displayStatus": "RUNNING",
+      "deleted": false
+    },
+    {
+      "id": 1003,
+      "adAccountId": 123456789,
+      "campaignId": 444555666,
+      "adGroupId": 555666777,
+      "text": "free app",
+      "matchType": "EXACT",
+      "bid": {
+        "amount": "0.50",
+        "currency": "USD"
+      },
+      "status": "ENABLED",
+      "displayStatus": "RUNNING",
+      "deleted": false
+    },
+    {
+      "id": 1004,
+      "adAccountId": 123456789,
+      "campaignId": 444555666,
+      "adGroupId": 555666777,
+      "text": "Photo Editor Pro",
+      "matchType": "EXACT",
+      "bid": {
+        "amount": "1.00",
+        "currency": "USD"
+      },
+      "status": "ENABLED",
+      "displayStatus": "RUNNING",
+      "deleted": false
+    },
+    {
+      "id": 1005,
+      "adAccountId": 123456789,
+      "campaignId": 444555666,
+      "adGroupId": 555666777,
+      "text": "wallpaper",
+      "matchType": "EXACT",
+      "bid": {
+        "amount": "2.00",
+        "currency": "USD"
+      },
+      "status": "ENABLED",
+      "displayStatus": "RUNNING",
+      "deleted": false
+    },
+    {
+      "id": 1006,
+      "adAccountId": 123456789,
+      "campaignId": 444555666,
+      "adGroupId": 555666777,
+      "text": "thin keyword",
+      "matchType": "EXACT",
+      "bid": {
+        "amount": "0.80",
+        "currency": "USD"
+      },
+      "status": "ENABLED",
+      "displayStatus": "RUNNING",
+      "deleted": false
+    }
+  ],
+  "pagination": {
+    "offset": 0,
+    "pageSize": 500,
+    "totalCount": 6
+  }
+}

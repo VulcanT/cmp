@@ -1,0 +1,31 @@
+# Rules for one app. Copy to rules/<app_id>.yaml and tune `targets`.
+# Metrics available in `when`/`guards`: spend, af_cost, installs, revenue_d7, roas_d7, cpi,
+# days_active, last_change_days, spend_14d, installs_14d, current_bid, default_bid, status,
+# cost_mismatch_pct, and targets.<name>. Rules are evaluated in order; first match wins.
+app_id: example
+targets:
+  roas_d7: 0.80      # D7 ROAS you consider break-even for this app
+  cpi: 3.00          # USD, in the app's currency
+
+rules:
+  - id: scale_winner
+    version: 1
+    when: roas_d7 >= targets.roas_d7 * 1.5 and installs >= 20
+    guards:
+      - last_change_days >= 3
+    action: { bid_pct: +0.15 }
+
+  - id: pause_dead
+    version: 1
+    when: spend_14d >= targets.cpi * 10 and installs_14d == 0 and status == "ENABLED"
+    guards:
+      - days_active >= 14
+    action: { status: PAUSED }
+
+  - id: trim_loser
+    version: 1
+    when: roas_d7 < targets.roas_d7 * 0.6 and spend >= targets.cpi * 3
+    guards:
+      - installs >= 10 or spend >= targets.cpi * 5
+      - last_change_days >= 3
+    action: { bid_pct: -0.20 }

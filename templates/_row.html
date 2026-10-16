@@ -1,0 +1,16 @@
+<tr id="p-{{ p.id }}" class="{{ p.status }}">
+  <td>{{ p.keyword_id }}</td>
+  <td>{{ p.rule_id }} v{{ p.rule_version }}</td>
+  <td>{{ p.field }}</td>
+  <td>{{ p.current }} → {{ p.proposed }}</td>
+  <td>{{ p.evidence.get("roas_d7", "–") }}</td>
+  <td>{{ p.evidence.get("spend", "–") }}</td>
+  <td>{{ p.evidence.get("installs", "–") }}</td>
+  <td>{{ p.status }}</td>
+  <td>
+    {% if p.status == "pending" %}
+    <button hx-post="/proposals/{{ p.id }}/decide" hx-vals='{"decision":"approved"}' hx-target="#p-{{ p.id }}" hx-swap="outerHTML">Approve</button>
+    <button hx-post="/proposals/{{ p.id }}/decide" hx-vals='{"decision":"rejected"}' hx-target="#p-{{ p.id }}" hx-swap="outerHTML">Reject</button>
+    {% endif %}
+  </td>
+</tr>
