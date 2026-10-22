@@ -11,11 +11,13 @@ Apply approved proposals to Apple Ads with full auditability, and never anything
 5. `CMP_MODE=dry_run` (default): write the request JSON to `executions` with `http_status=null` and mark proposals `dry_run`. `CMP_MODE=live`: send, store response, mark each proposal `applied` or `failed` from `result[].success`.
 6. Rate limits: read `RateLimit-Remaining`; sleep `RateLimit-Reset` when < 5; on 429 wait `Retry-After`, double up to 16 s, max 5 retries.
 7. Never delete keywords. Never create campaigns, ad groups or budgets.
+8. Write `changes` rows (specs/approvals.md): one per applied item with `agent=rule`, the proposal, decision and rule ids and the `executions` row id (live mode only); one per drifted item with `agent=external`, `old` = the value in `evidence_json`, `new` = the value read back in step 3 (dry-run and live, since drift is detected in both).
 
 ## Acceptance criteria
 - Dry-run produces byte-exact request JSON for a fixture batch (golden file test).
 - A drifted keyword is skipped and reported; the rest of the batch still goes.
 - `CMP_MODE` unset → dry-run; a test asserts that no HTTP client is invoked in dry-run.
+- A fixture batch with one applied and one drifted item produces, in live mode with the fake client, one `changes` row per item with the right `agent`; in dry-run, only the `external` row.
 
 ## Verification
 `pytest tests/executor -q`; first live run is done with one keyword, then confirmed in Apple Ads Change History.
